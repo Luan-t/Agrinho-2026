@@ -31,7 +31,7 @@ min-height: 100vh;
 main {
 .cartao:hover .cartao-interno {
 transform: rotateY(180deg);
-}
+align-items: center;}
 
 flex: 1;
 }
