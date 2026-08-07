@@ -85,5 +85,5 @@ main {
 
     section {
         display: flex;
-        g
+        gap: 16px;
     }
